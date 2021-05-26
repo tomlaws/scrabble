@@ -1,0 +1,2 @@
+1. In game dictionary
+2. Game session saving

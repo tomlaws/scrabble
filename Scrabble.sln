@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scrabble", "Scrabble\Scrabble.vcxproj", "{086C3B7F-D76E-4AC9-ADA0-1513DB4D5F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086C3B7F-D76E-4AC9-ADA0-1513DB4D5F27}.Debug|x86.ActiveCfg = Debug|Win32
+		{086C3B7F-D76E-4AC9-ADA0-1513DB4D5F27}.Debug|x86.Build.0 = Debug|Win32
+		{086C3B7F-D76E-4AC9-ADA0-1513DB4D5F27}.Release|x86.ActiveCfg = Release|Win32
+		{086C3B7F-D76E-4AC9-ADA0-1513DB4D5F27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFF8963-EAEE-4CA2-B173-6A0B4C7DFE60}
+	EndGlobalSection
+EndGlobal
